@@ -38,7 +38,7 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>testt</h2>
-          <p>Your answered</p>
+          <p>Yered</p>
           <ul>
             <li>
               <a href="https://vite.dev/" target="_blank">
@@ -59,7 +59,7 @@ function App() {
             <use href="/icons.svg#social-icon"></use>
           </svg>
           <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
+          <p>Join ty</p>
           <ul>
             <li>
               <a href="https://github.com/vitejs/vite" target="_blank">
